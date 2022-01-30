@@ -1,5 +1,5 @@
 # Simple_Sales_Analysis
-Analysis of Sales of an Electronics Shop.
+Analysis of Sales of an Electronics Shop using Python.
 
 ## Library Used:
      1: Pandas
